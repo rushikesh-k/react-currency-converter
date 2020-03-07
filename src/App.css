@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.input {
+  padding: 0.25rem;
+  width: 7em;
+}
+select {
+  margin-left: 0.5rem;
+  width: 5rem;
+}
