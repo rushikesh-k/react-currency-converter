@@ -5,13 +5,22 @@ body {
   align-items: center;
   min-height: 100vh;
   text-align: center;
+  background-color: #151515;
 }
-
+h2,
+div {
+  color: rgb(211, 211, 211);
+  text-transform: uppercase;
+  padding: 0.5em;
+  font-weight: 100;
+  letter-spacing: 0.5em;
+}
 .input {
   padding: 0.25rem;
-  width: 7em;
+  width: 10em;
 }
 select {
   margin-left: 0.5rem;
-  width: 5rem;
+  height: 2em;
+  width: 10rem;
 }
